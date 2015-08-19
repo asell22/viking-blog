@@ -2,7 +2,7 @@
 title: Interning for Viking Code School
 email: alexanderjsell@gmail.com
 description: My experience working as an intern for Viking Code School.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/viking-blog" # the subpath of your site, e.g. /blog/
 url: "http://asell.me" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  asell22
